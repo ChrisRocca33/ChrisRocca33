@@ -8,3 +8,5 @@
 - <b>PHP web application with mySQL</b>
   - [Quality Cuisines](https://github.com/ChrisRocca33/QualityCuisines)
 
+- <b>Advanced Server Side Scripting Final</b>
+  - [Final Exam Code](https://github.com/ChrisRocca33/PHPFinalApp)
