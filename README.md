@@ -14,5 +14,4 @@
 - <b>Mobile App Development</b>
   - [Grocery Assistant Mobile App](https://github.com/ChrisRocca33/GroceryAssisstant)
 
-- <b>Interface Design</b>
-  - [Webpage Redesign](https://github.com/ChrisRocca3/2.3_course_project)
+
